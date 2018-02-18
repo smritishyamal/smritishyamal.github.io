@@ -1,49 +1,46 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Smriti Shyamal
-[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
-
-jemdoc is a light text-based markup language designed for creating 
-websites. It takes a text file written with [example.html jemdoc markup], an
-optional configuration file and an optional menu file, and makes static websites
-that look something like this one, [https://jemnz.com that one] or
-[http://www.stanford.edu/class/ee364a/ another one].
-
-jemdoc was inspired by [http://www.methods.co.nz/asciidoc/ AsciiDoc], which is a
-text document format. AsciiDoc is great, and lots of the ideas from AsciiDoc are
-copied in jemdoc. The main differences are that jemdoc is simpler (you could say
-deliberately feature poor) and has more consistent syntax.
-
-[download.html Download jemdoc.]
 
 ~~~
-Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
-See the [revision.html release notes].
+{}{img_left}{mypic.jpg}{alt text}{230px}{230px}{IMGLINKTARGET}
+Smriti Shyamal\n
+Ph.D. Student, [https://mcmaster.ca McMaster University], Canada,\n
+Research Assistant, [http://macc.mcmaster.ca McMaster Advanced Control Consortium].\n 
+\n*Contact*\n
+1280, Main Street West\n
+Room: JHE 370\n
+Hamilton, Ontario\n
+Canada L8S 4L7.\n
+Tel: (289) 244-1424\n
+Email: shyamas \[at\] mcmaster.ca
 ~~~
 
-[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
+Smriti Shyamal is currently doing Ph.D. at [https://mcmaster.ca McMaster University], Canada, where
+he is supervised   
+by [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. Swartz]. He received 
+B.Tech degree from [http://www.iitb.ac.in Indian Institute of Techonology, Bombay],
+India in 2013 and subsequently joined [https://mcmaster.ca McMaster University]. His current
+research focus is on data science, machine learning, optimization and control applications.
+
+#~~~
+#Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
+#See the [revision.html release notes].
+#~~~
+
+#[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
 
 == Research Interests
-- Simple, consistent syntax.
-- $\mbox{\LaTeX}$ [latex.html equation support].
-- [tables.html Table support].
-- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
-  single css file \+ your input file {{&rarr;}} html.
-- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
-  independent of jemdoc.
-- Production of clean,
-  [http://validator.w3.org/check/referer
-  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
-- Minimal bells and whistles, but simple fallback to raw html if required.
+- Machine learning
+- Optimization algorithms
+- Large scale applications
+- Deep learning
 
 == Selected Papers
-Copyright \C 2007--2012 Jacob Mattingley.
-
-jemdoc is free software; you can redistribute it and\/or modify it under the
-terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
-License] as published by the Free Software Foundation; either version 3 of the
-License, or (at your option) any later version.
-
-jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
-General Public License] for more details.
+- S. Shyamal and C. L. E. Swartz, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_JPC_2017.pdf Real-time Energy Management for Electric Arc Furnace Operation]”, submitted
+to Journal of Process Control (Invited: Special Issue on Efficient Energy Management) (2018)
+- S. Shyamal and C. L. E. Swartz, “[https://doi.org/10.1016/j.ifacol.2017.08.2338 Optimization-based Online Decision Support Tool for Electric Arc Furnace
+Operation]”, 20th IFAC World Congress, Toulouse, France, IFAC-PapersOnLine, 50(1), 10784-10789 (2017)
+- C. L. E. Swartz and S. Shyamal, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Swartz_Shyamal_ISIJ_2017.pdf Dynamic Optimization, Estimation and Control of Electric Arc Furnace
+Operation]”, Current Advances of Materials and Processes (CAMP-ISIJ), 30(2) (2017)
+- S. Shyamal and C. L. E. Swartz, “[https://doi.org/10.1016/j.ifacol.2016.07.365 A Multi-rate Moving Horizon Estimation Framework for Electric Arc Furnace
+Operation]”, 11th DYCOPS-CAB, Trondheim, Norway, IFAC-PapersOnLine, 49(7), 1175-1180 (2016)
