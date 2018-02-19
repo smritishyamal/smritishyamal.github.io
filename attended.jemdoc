@@ -1,0 +1,88 @@
+# jemdoc: menu{MENU}{attended.html}, 
+#showsource
+= Smriti Shyamal - Courses attended
+[https://mcmaster.ca McMaster University], Canada
+
+== [https://mcmaster.ca McMaster University], Canada, Sep'13-Apr'18 
+*[https://www.eng.mcmaster.ca/sites/default/files/sfwr_tech_4dm3_j_fortuna.pdf Data Mining (SEP 6DM3)]*\n
+/[https://www.eng.mcmaster.ca/sept/ W Booth School of Engineering Practice and Technology]/
+- Instructor: [https://www.eng.mcmaster.ca/sept/people/faculty/jeff-fortuna Dr. Jeff Fortuna], Assistant Professor, Software Engineering Technology
+- Data descriptions, visualization of data, measurements of data similarity and dissimilarity
+- K Nearest Neighbors Classification, Bayesian Classifiers, Decision Trees, AdaBoost
+- Logistic Regression, Support Vector Machine, Neural Networks, Classifier Performance, Unsupervised Learning
+
+*[https://www.eng.mcmaster.ca/ece/people/faculty/simon-haykin Neural Networks and Learning Machines (ECE 772)]*\n
+/[https://www.eng.mcmaster.ca/ece Department of Electrical & Computer Engineering]/
+- Instructor: [https://www.eng.mcmaster.ca/ece/people/faculty/simon-haykin Dr. Simon Haykin], Distinguished University Professor, [https://www.eng.mcmaster.ca/ece Department of Electrical & Computer Engineering] 
+- Statistical learning theory, including VC, regularization, and Bayesian theories. Algorithms for multilayer perceptrons, kernel-based learning machines, self-organizing maps, principal components analysis, and blind source separation.
+- Deep Learning, Recurrent Neural Networks, LSTM, Convolutional Networks, Autoencoders 
+- Sequential state estimation algorithms, including extended Kalman filter, unscented Kalman filter, and particle filters; applications to learning machines.
+
+*[http://www.cas.mcmaster.ca/cas/0outlines/CAS_702.html Data Structures and Algorithm (CAS 702)]*, Grade: A+\n
+/[https://www.eng.mcmaster.ca/cas Department of Computing and Software]/
+- Instructor: [https://www.eng.mcmaster.ca/cas/people/faculty/george-karakostas Dr. George Karakostas], Associate Professor, [https://www.eng.mcmaster.ca/cas Department of Computing and Software]  
+- Binomial heaps, an example of worst-case analysis
+- Amortized analysis, Fibonacci heaps, an example of amortized analysis 
+- Hash tables, an example of randomized analysis
+- Greedy algorithms and matroids, Dynamic programming and all-pairs shortest paths, Maximum flow
+- Linear Programming and Duality, Primal-Dual schema as an algorithmic design tool, NP-completeness, Approximation algorithms
+
+*[http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=25&coid=176206 Data Analysis and Big Data (SEP 6DA3)]*, Grade: A+\n
+/[https://www.eng.mcmaster.ca/sept/ W Booth School of Engineering Practice and Technology]/
+- Instructor: [https://www.eng.mcmaster.ca/sept/people/faculty/jeff-fortuna Dr. Jeff Fortuna], Assistant Professor, Software Engineering Technology
+- 	
+Statistical Data Analysis, Linear Regression using OLS, MLE and FLD, Linear Classification using the perceptron, neural networks and the SVM, Big Data Architectures.
+
+*[https://phd.degroote.mcmaster.ca/descriptions/q787/ Optimization under Uncertainty (Business Q787)]*, Grade: A\n
+/[https://www.degroote.mcmaster.ca DeGroote School of Business]/
+- Instructor: [https://www.degroote.mcmaster.ca/profiles/kai-huang/ Dr. Kai Huang], Associate Professor, Operations Management 
+- LP and duality; IP and Lagrangian Relaxation
+- Modeling issues, Basic properties and theory, The value of information and the stochastic solution, Evaluating and approximating expectations
+- Monte Carlo methods, L-shaped method
+- Stochastic Integer Programming, Basic properties and theory, Nested decomposition for multi-stage stochastic programming, Finite Horizon Models
+- Chance constrained programming, Robust optimization
+
+*[https://phd.degroote.mcmaster.ca/descriptions/q773/ Optimization I (Business Q773)]*, Grade: A+\n
+/[https://www.degroote.mcmaster.ca DeGroote School of Business]/
+- Instructor: [https://www.degroote.mcmaster.ca/profiles/elkafi-hassini/ Dr. Elkafi Hassini], Professor, Operations Management 
+- Linear, integer and nonlinear programming.
+- Convexity, duality, Karush-Kuhn-Tucker conditions, non-differentiable optimization, Branch and cut, and decomposition methods (Lagrangian, Bender's and Dantzig-Wolf). 
+- Software implementation issues highlighted via GAMS and its solvers.
+
+*[https://www.eng.mcmaster.ca/cas/programs/course-listing Scientific Computing (CAS 708)]*, Grade: A+\n
+/[https://www.eng.mcmaster.ca/cas Department of Computing and Software]/
+- Instructor: [https://www.eng.mcmaster.ca/cas/people/faculty/sanzheng-qiao Dr. Sanzheng Qiao], [https://www.eng.mcmaster.ca/cas Department of Computing and Software]
+- Floating-point arithmetic, solutions of systems of linear equations by direct and iterative methods, sparse matrix algorithms, solving systems of nonlinear equations, integration, differentiation, eigenvalue problems, methods for initial value problems in ordinary differential equations, and automatic differentiation. 
+
+*[https://www.eng.mcmaster.ca/ece/programs/course-listing Matrix Computations in Signal Processing (ECE 712)]*, Grade: A+\n
+/[https://www.eng.mcmaster.ca/ece Department of Electrical & Computer Engineering]/
+- Instructor: [http://www.ece.mcmaster.ca/~reilly/ Dr. James (Jim) Reilly], Professor, [https://www.eng.mcmaster.ca/ece Department of Electrical & Computer Engineering] 
+- Matrix decompositions: eigen-decomposition, QR decomposition, singular value decomposition; solution to systems of equations: Gaussian elimination, Toeplitz systems; least square methods: ordinary, generalized and total least squares, principal component analysis.
+
+== [https://cognitiveclass.ai CognitiveClass.ai], IBM, Jan'17-Present
+- Apache Pig 101
+- Controlling Hadoop Jobs using Oozie
+- Analyzing Big Data in R suing Apache
+- Big Data 101
+- Machine Learning with Python
+- Getting Started with the Data: Apache Spark Makers Build
+- Spark MLlib
+- Accessing Hadoop Data Using Hive
+- Data Science Methodology
+- Deep Learning with TensorFlow
+- NoSQL and DBaaS 101 Home Page
+NoSQL and DBaaS 101
+- Spark Fundamentals 101
+- Hadoop 101
+- Predictive Modeling Fundamentals I 
+
+== [http://www.iitb.ac.in Indian Institute of Technology (IIT-B), Bombay], India, Jul'09-Jun'13
+- Data Analysis and Interpretation
+- Computer Programming and Utilization
+- Optimization
+- Introduction to Numerical Analysis
+- Linear Algebra
+- Calculus
+- Differential Equations I \& II
+- Economics
+- Managerial Economics

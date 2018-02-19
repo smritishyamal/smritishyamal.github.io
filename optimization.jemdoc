@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{optimization.html}, 
+#showsource
+= Smriti Shyamal - Optimization Resources
+[https://mcmaster.ca McMaster University], Canada
+
+== Deep Learning Solvers
+- AdaGrad
+- Adam
+- RMSProp
+- Second Order Methods
+-- BFGS
+-- Limited BFGS (L-BFGS)
+
+== Optimization High-level languages
+- Python
+- AMPL
+- GAMS
+- XPRESS
+- gPROMS
+
+== Constrained Optimization Solvers 
+- IPOPT
+- CONOPT
+- KNITRO
+- BONMIN
+- SNOPT
+
+== Mixed-integer Solvers
+- CPLEX
+- ANTIGONE
+- Baron

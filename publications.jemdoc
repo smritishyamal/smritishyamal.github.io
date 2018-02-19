@@ -1,0 +1,61 @@
+# jemdoc: menu{MENU}{publications.html}, 
+#showsource
+= Smriti Shyamal - Publications
+[https://mcmaster.ca McMaster University], Canada
+
+== Journal Articles
+
+. *S. Shyamal* and C. L. E. Swartz, “Smoothing Moving Horizon Estimation for Batch Processes”, Computers and Chemical Engineering, to be submitted (2018)
+. *S. Shyamal* and C. L. E. Swartz, “Dynamic Optimization, State Estimation and Control of Electric Arc Furnace Operation”, ISIJ International, to be submitted (Invited review paper) (2018)
+. *S. Shyamal* and C. L. E. Swartz, “Minimizing Peak Electricity Usage in Manufacturing Processes”, Applied Energy, to be submitted (2018)
+. *S. Shyamal* and C. L. E. Swartz, “Moving Horizon Estimation and Nonlinear Model Predictive Control of Variable Batch Length Processes”, Computers and Chemical Engineering, to be submitted (2018)
+. *S. Shyamal* and C. L. E. Swartz, “Real-Time Advisory System for Electric Arc Steelmaking Optimization”, submitted to Industrial & Engineering Chemistry Research (2018)
+. *S. Shyamal* and C. L. E. Swartz, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_JPC_2017.pdf Real-time Energy Management for Electric Arc Furnace Operation]”, submitted
+to Journal of Process Control (Invited: Special Issue on Efficient Energy Management) (2018)
+
+== Online Resources
+. *S. Shyamal*, V. Carri, J. Thompson and C. L. E. Swartz, “Online Electric Arc Furnace Model for Optimization”, McMaster Steel Research Centre Website (2017)
+. *S. Shyamal*, P. Warnick, J. Thompson and C. L. E. Swartz, “Online Electric Arc Furnace Model for Simulation”, McMaster Steel Research Centre Website (2016)
+
+== Conference Publications
+. *S. Shyamal* and C. L. E. Swartz, “[https://doi.org/10.1016/j.ifacol.2017.08.2338 Optimization-based Online Decision Support Tool for Electric Arc Furnace
+Operation]”, 20th IFAC World Congress, Toulouse, France, IFAC-PapersOnLine, 50(1), 10784-10789 (2017)
+. *S. Shyamal* and C. L. E. Swartz, “[https://doi.org/10.1016/j.ifacol.2016.07.365 A Multi-rate Moving Horizon Estimation Framework for Electric Arc Furnace
+Operation]”, 11th DYCOPS-CAB, Trondheim, Norway, IFAC-PapersOnLine, 49(7), 1175-1180 (2016)
+. C. L. E. Swartz and *S. Shyamal*, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Swartz_Shyamal_ISIJ_2017.pdf Dynamic Optimization, Estimation and Control of Electric Arc Furnace
+Operation]”, Current Advances of Materials and Processes (CAMP-ISIJ), 30(2) (2017)
+
+== Conference Presentations
+
+. *S. Shyamal* and C. L. E. Swartz, “Smoothing Moving Horizon Estimation for Batch Processes”, 6th IFAC Conference on Nonlinear Model Predictive Control, Madison, Wisconsin, submitted (2018)
+. *S. Shyamal* and C. L. E. Swartz, “Real-time Energy management for Electric Arc Furnace Operation”, AIChE Annual Meeting, Minneapolis, Minnesota (2017)
+. *S. Shyamal* and C. L. E. Swartz, “Modeling and Optimization Framework for Electric Arc Steel-Making”, Praxair Industrial Meeting, Hamilton, Canada (2017)
+. *S. Shyamal* and C. L. E. Swartz, “Optimization-based Online Decision Support System for Electric Arc Furnace Operation”, McMaster University Chemical Engineering Conference, Hamilton, Canada (2017)
+. *S. Shyamal* and C. L. E. Swartz, “Optimization and Control of Electric Arc Furnace Operation (Status
+Update and Online EAF Model)”, McMaster Steel Research Center Bi-annual Meeting, Hamilton, Canada
+(2017)
+. *S. Shyamal* and C. L. E. Swartz, “Multi-rate Moving Horizon Estimation for an Electric Arc Furnace
+Steelmaking Process”, AIChE Annual Meeting, San Francisco, California (2016)
+. *S. Shyamal* and C. L. E. Swartz, “A Multi-rate Moving Horizon Estimation Framework for Electric Arc
+Furnace Operation”, 28th McMaster Advanced Control Consortium Workshop, Hamilton, Canada (2016)
+. *S. Shyamal* and C. L. E. Swartz, “A Multi-rate Moving Horizon Estimation Framework for Electric Arc
+Furnace Operation,” Ontario-Quebec Stats and Control Meeting, Waterloo, Canada (2016)
+. *S. Shyamal*, C. L. E. Swartz, P. Warnick and John Thompson, “Optimization and Control of Electric Arc Furnace Operation (Status Update and Online EAF Model)”, McMaster Steel Research Center Bi-annual
+Meeting, Hamilton, Canada (2016)
+. *S. Shyamal* and C. L. E. Swartz, “Optimization and Control of Electric Arc Furnace Operation (Status
+Update and Future Directions)”, McMaster Steel Research Center Bi-annual Meeting, Hamilton, Canada
+(2016)
+. *S. Shyamal* and C. L. E. Swartz, “Electric Arc Furnace Operations Optimization (Status Update and Future
+Directions)”, McMaster Steel Research Center Bi-annual Meeting, Hamilton, Canada (2015)
+. *S. Shyamal*, Y. E. M. Ghobara and C. L. E. Swartz, “Dynamic Optimization of Electric Arc Furnace Operation with State Estimation as a Decision Support Tool,” 64th Canadian Chemical Engineering
+Conference, Niagara Falls, Canada (2014) [link]
+. *S. Shyamal* and C. L. E. Swartz, “Electric Arc Furnace Operations Optimization (Status Update and Future
+Directions)”, McMaster Steel Research Center Bi-annual Meeting, Hamilton, Canada (2014)
+
+== Poster Presentations
+. *S. Shyamal* and C. L. E. Swartz, “Dynamic Economic Optimization in Electric Arc Steel-Making”, 28th McMaster Advanced Control Consortium Meeting, Hamilton, Canada (2017)
+. *S. Shyamal* and C. L. E. Swartz, “Dynamic Optimization, State Estimation and Control in Electric Arc Steel Making”, 27th McMaster Advanced Control Consortium Meeting, Hamilton, Canada (2016)
+. *S. Shyamal* and C. L. E. Swartz, “Dynamic Optimization, State Estimation and Control in Electric Arc Steel Making”, 26th McMaster Advanced Control Consortium Meeting, Hamilton, Canada (2015)
+. *S. Shyamal* and C. L. E. Swartz, “Modeling, Optimization and Control of Electric Arc Furnace Operation”, McMaster Steel Research Center Bi-annual Meeting, Hamilton, Canada (2015)
+. *S. Shyamal* and C. L. E. Swartz, “Modeling, Optimization and Control of Electric Arc Furnace Operation”, 25th McMaster Advanced Control Consortium Meeting, Hamilton, Canada (2014)
+. *S. Shyamal* and S. M. Mahajani, “Biodiesel Production Protocol,” 3rd Global Alliance of Technological Universities Conference, Mumbai, India (2011)
