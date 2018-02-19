@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{state_estimation.html}, 
+#showsource
+= Smriti Shyamal - State Estimation Resources
+[https://mcmaster.ca McMaster University], Canada
+
+== Kalman Filters (KF)
+- Extended KF
+- Unscented KF
+- Filtering, smoothing
+
+== Particle Filters
+
+== Moving Horizon Estimation (MHE)
+- Linear
+- Non-linear

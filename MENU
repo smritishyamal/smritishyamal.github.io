@@ -9,9 +9,10 @@ Courses
     attended            [attended.html]
 
 Resources
+    optimization        [optimization.html]
+    state estimation    [state_estimation.html]
     machine learning    [machine_learning.html]
     data science        [data_science.html]
-    optimization        [optimization.html]
 
 ExtraCurrics
     activities          [activities.html]
