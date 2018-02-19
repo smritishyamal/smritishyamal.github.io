@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{projects.html}, 
+#showsource
+= Smriti Shyamal - Projects
+[https://mcmaster.ca McMaster University], Canada
+
+== Deep Learning & SVM for Image Reconstruction, [https://mcmaster.ca McMaster University], Canada,   Sep’17-Jan’18
+- Developed DeepNet/SVM in Python (TensorFlow with CUDA, Scikit Learn) for image reconstruction
+- Conceptualized the learning problem and generated input & output data from original RGB image
+- Trained and tested the machine leaning models on Amazon Web Services (AWS) EC2 (g2.2xlarge) GPUs
+- [https://github.com/smritishyamal/Image_reconstruction_DeepNet_and_SVM GitHub link]
+
+== Perceptron & SVM for Classification, [https://mcmaster.ca McMaster University], Canada, Sep’17-Dec’18      
+- Applied 2 machine learning algorithms (Perceptron and SVM) in Python for large scale data classification 
+- Compared and evaluated Perceptron and SVM performances by creating confusion matrices
+- [https://github.com/smritishyamal/Linear_classifier_perceptron_SVM GitHub link]
