@@ -9,6 +9,10 @@
 - Trained and tested the machine leaning models on Amazon Web Services (AWS) EC2 (g2.2xlarge) GPUs
 - [https://github.com/smritishyamal/Image_reconstruction_DeepNet_and_SVM GitHub link]
 
+~~~
+{}{img_left}{project1_images.pdf}{alt text}{430px}{570px}{IMGLINKTARGET}
+~~~
+
 == Perceptron & SVM for Classification, [https://mcmaster.ca McMaster University], Canada, Sep’17-Dec’18      
 - Applied 2 machine learning algorithms (Perceptron and SVM) in Python for large scale data classification 
 - Compared and evaluated Perceptron and SVM performances by creating confusion matrices

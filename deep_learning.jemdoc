@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{deep_learning.html}, 
+#showsource
+= Smriti Shyamal - Deep Learning
+[https://mcmaster.ca McMaster University], Canada
+
+== Books
+- Goodfellow, Ian, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. [http://www.deeplearningbook.org Deep learning]. Vol. 1. Cambridge: MIT press, 2016.\n
+*The book is very good for starters as well as for experts. I enjoyed reading it and you should give it a try.* 
+- Graves, Alex. "[https://www.cs.toronto.edu/~graves/preprint.pdf Supervised sequence labelling with recurrent neural networks]. 2012." ISBN 9783642212703. URL http://books. google. com/books.\n
+*This book is very good to learn Recurrent Neural Networks.*
+
+== Papers
+- LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "[https://www.nature.com/articles/nature14539 Deep learning]." nature 521, no. 7553 (2015): 436.\n
+*A very nice review paper on Deep Learning. It will definitely get you excited to dive into learning Deep Learning.*
+
