@@ -31,10 +31,10 @@ research focus is on data science, machine learning, optimization and control ap
 #[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
 
 == Research Interests
-- Machine learning
-- Deep learning
-- Reinforcement learning
-- Optimization algorithms
+- [https://en.wikipedia.org/wiki/Machine_learning Machine learning]
+- [https://en.wikipedia.org/wiki/Deep_learning Deep learning]
+- [https://en.wikipedia.org/wiki/Reinforcement_learning Reinforcement learning]
+- [https://en.wikipedia.org/wiki/Mathematical_optimization Optimization algorithms]
 - Large scale applications
 
 == Selected Papers
@@ -55,8 +55,9 @@ Taiwan, (2017)
 Process Control using Deep Reinforcement Learning]", IFAC
  Symposium on Advanced Control of Chemical Processes - 10th ADCHEM, (2018)
 
+~~~
 == News
 - *March 1, 2018*: Attended [http://www.fields.utoronto.ca/activities/17-18/machine-learning The Fields Institute Seminar] organized by the [http://vectorinstitute.ai Vector Institute]\n
 +Title+: Relaxed Gradient Estimators, [http://www.fields.utoronto.ca/talks/Relaxed-Gradient-Estimators Abstract link]\n
 +Speaker+: [http://www.stats.ox.ac.uk/~cmaddis/ Chris Maddison], University of Oxford.
- 
+~~~ 
