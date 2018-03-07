@@ -1,6 +1,12 @@
 # jemdoc: menu{MENU}{data_science.html}, 
 #showsource
-= Smriti Shyamal - Data Science
+= Smriti Shyamal - Data Science Resources
 [https://mcmaster.ca McMaster University], Canada
 
-== Contents to be uploaded ...
+== Tools
+- [https://pandas.pydata.org Pandas]: Data structure and data analysis tool for [https://www.python.org Python]
+- [https://hadoop.apache.org Hadoop]: Distributed processing of large scale data
+
+== Other
+- Competitions related to machine learning problems and more at [https://www.kaggle.com Kaggle].
+- Learning data science: [https://cognitiveclass.ai Cognitive class by IBM].

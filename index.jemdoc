@@ -38,8 +38,7 @@ research focus is on data science, machine learning, optimization and control ap
 - Large scale applications
 
 == Selected Papers
-- *S. Shyamal* and C. L. E. Swartz, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_JPC_2017.pdf Real-time Energy Management for Electric Arc Furnace Operation]”, submitted
-to Journal of Process Control (Invited: Special Issue on Efficient Energy Management) (2018)
+- *S. Shyamal* and C. L. E. Swartz, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_JPC_2017.pdf Real-time Energy Management for Electric Arc Furnace Operation]”, accepted for publication in Journal of Process Control (Invited: Special Issue on Efficient Energy Management) (2018)
 - *S. Shyamal* and C. L. E. Swartz, “[https://doi.org/10.1016/j.ifacol.2017.08.2338 Optimization-based Online Decision Support Tool for Electric Arc Furnace
 Operation]”, 20th IFAC World Congress, Toulouse, France, IFAC-PapersOnLine, 50(1), 10784-10789 (2017)
 - C. L. E. Swartz and *S. Shyamal*, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Swartz_Shyamal_ISIJ_2017.pdf Dynamic Optimization, Estimation and Control of Electric Arc Furnace
@@ -49,6 +48,12 @@ Operation]”, 11th DYCOPS-CAB, Trondheim, Norway, IFAC-PapersOnLine, 49(7), 117
 
 ~~~
 == News
+- *March 6, 2018*: [https://github.com/iml-wg/HEP-ML-Resources Resources] to know more on Machine Learning application to High Energy Physics (HEP). Courtesy: [http://theoryandpractice.org Dr. Kyle Cranmer], Associate Professor Of Physics, NYU, New York. 
+
+- *March 6, 2018*: [https://dlrlsummerschool.ca Deep Learning and Reinforcement Learning (DLRL) Summer School] 2018 to be held in Toronto July 25th - August 3rd, 2018. 
+
+- *March 5, 2018*: Paper accepted for publication in [https://www.journals.elsevier.com/journal-of-process-control Journal of Process Control]: "[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_JPC_2017.pdf Real-time Energy Management for Electric Arc Furnace Operation]", by *S. Shyamal* and C. L. E. Swartz    
+
 - *March 1, 2018*: Attended [http://www.fields.utoronto.ca/activities/17-18/machine-learning The Fields Institute Seminar] organized by the [http://vectorinstitute.ai Vector Institute]\n
 +Title+: Relaxed Gradient Estimators, [http://www.fields.utoronto.ca/talks/Relaxed-Gradient-Estimators Abstract link]\n
 +Speaker+: [http://www.stats.ox.ac.uk/~cmaddis/ Chris Maddison], University of Oxford.
