@@ -5,27 +5,27 @@
 
 == Deep Learning Solvers
 - AdaGrad
-- Adam
+- Adam: [Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014).]
 - RMSProp
 - Second Order Methods
 -- BFGS
 -- Limited BFGS (L-BFGS)
 
-== Optimization High-level languages
-- Python
-- AMPL
-- GAMS
-- XPRESS
+== Optimization using High-level languages
+- [https://www.python.org Python]
+- [https://ampl.com AMPL]
+- [https://www.gams.com GAMS]
+- [http://www.fico.com/en/products/fico-xpress-optimization Xpress]
 - gPROMS
 
 == Constrained Optimization Solvers 
-- IPOPT
-- CONOPT
-- KNITRO
-- BONMIN
-- SNOPT
+- [https://projects.coin-or.org/Ipopt IPOPT]
+- [http://www.conopt.com CONOPT]
+- [https://www.artelys.com/en/optimization-tools/knitro KNITRO]
+- [https://en.wikipedia.org/wiki/SNOPT SNOPT]
 
 == Mixed-integer Solvers
-- CPLEX
-- ANTIGONE
-- Baron
+- [https://projects.coin-or.org/Bonmin BONMIN]
+- [https://www.ibm.com/analytics/data-science/prescriptive-analytics/cplex-optimizer CPLEX]
+- [http://helios.princeton.edu/ANTIGONE/ ANTIGONE]
+- [http://archimedes.cheme.cmu.edu/?q=baron BARON]

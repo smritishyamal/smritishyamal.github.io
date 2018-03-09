@@ -13,9 +13,18 @@
 - LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "[https://www.nature.com/articles/nature14539 Deep learning]." nature 521, no. 7553 (2015): 436.\n
 *A very nice review paper on Deep Learning. It will definitely get you excited to dive into learning Deep Learning.*
 
+- Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser et al. "[https://www.nature.com/articles/nature16961 Mastering the game of Go with deep neural networks and tree search]." nature 529, no. 7587 (2016): 484-489.\n
+Silver, David, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja Huang, Arthur Guez, Thomas Hubert et al. "[https://www.nature.com/articles/nature24270?sf123103138=1 Mastering the game of go without human knowledge]." Nature 550, no. 7676 (2017): 354.\n
+*2 papers on how Reinforcement learning based AlphaGo is able to defeat humans in the game of [https://en.wikipedia.org/wiki/Go_(game) GO]. These papers will excite you about Reinforcement learning. Go AlphaGo!* 
+
 == Tools
 - [https://www.tensorflow.org TensorFlow]: Machine learning framework
 - [https://keras.io Keras]
 - [http://torch.ch Torch]
 - [http://caffe.berkeleyvision.org Caffe]
+
+== Research groups
+- [https://deepmind.com DeepMind], UK
+- [https://mila.quebec/en/ MILA], Qubec, Canada
+- [http://vectorinstitute.ai Vector Institute], Toronto, Canada
 
