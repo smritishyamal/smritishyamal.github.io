@@ -1,27 +1,27 @@
 # jemdoc: menu{MENU}{index.html}, 
 #showsource
-= Smriti Shyamal
+= Smriti Shyamal, Ph.D.
 
 ~~~
-{}{img_left}{mypic.jpg}{alt text}{230px}{230px}{IMGLINKTARGET}
-Smriti Shyamal\n
-Ph.D. Student, [https://mcmaster.ca McMaster University], Canada,\n
-Research Assistant, [http://macc.mcmaster.ca McMaster Advanced Control Consortium].\n 
+{}{img_left}{mypic1.jpg}{alt text}{235px}{235px}{IMGLINKTARGET}
+Smriti Shyamal,\n
+Machine Learning Scientist, [https://1qbit.com 1QB Information Technologies],\n
+Ph.D. graduate, [https://mcmaster.ca McMaster University], Canada,\n
+Former Research Assistant, [http://macc.mcmaster.ca McMaster Advanced Control Consortium].\n 
 \n*Contact*\n
-1280, Main Street West\n
-Room: JHE 370\n
-Hamilton, Ontario\n
-Canada L8S 4L7.\n
-Tel: (289) 244-1424\n
+708-1160 Haro Street,\n
+Vancouver, British Columbia,\n
+Canada V6E 1E2.\n
+Tel: (778) 229-2550\n
 Email: shyamas \[at\] mcmaster.ca
 ~~~
 
-Smriti Shyamal is currently doing Ph.D. at [https://mcmaster.ca McMaster University], Canada, where
-he is supervised   
-by [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. Swartz]. He received 
+Smriti Shyamal is currently employed as Machine Learning Scientist in [https://1qbit.com 1QB Information Technologies]. Prior to joining [https://1qbit.com 1QBit], he completed his Ph.D. at [https://mcmaster.ca McMaster University], Canada, where
+he was supervised   
+by [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. Swartz]. He received his 
 B.Tech degree from [http://www.iitb.ac.in Indian Institute of Technology, Bombay],
-India in 2013 and subsequently joined [https://mcmaster.ca McMaster University]. His current
-research focus is on data science, machine learning, optimization and control applications.
+India in 2013. His current
+research focus is on deep learning, rinforcement learning, data science, machine learning, optimization and control applications.
 
 #~~~
 #Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
@@ -38,7 +38,8 @@ research focus is on data science, machine learning, optimization and control ap
 - Large scale applications
 
 == Selected Papers
-- *S. Shyamal* and C. L. E. Swartz, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_JPC_2017.pdf Real-time Energy Management for Electric Arc Furnace Operation]”, accepted for publication in Journal of Process Control (Invited: Special Issue on Efficient Energy Management) (2018)
+- *S. Shyamal* and C. L. E. Swartz, “[https://doi.org/10.1016/j.jprocont.2018.03.002 Real-time Energy Management for Electric Arc Furnace Operation]”, [https://doi.org/10.1016/j.jprocont.2018.03.002 https://doi.org/10.1016/j.jprocont.2018.03.002], Journal of Process Control (Invited: Special Issue on Efficient Energy Management) (2018)
+- *S. Shyamal* and C. L. E. Swartz, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Swartz_IECR_2018.pdf Real-time Dynamic Optimization-based Advisory System for Electric Arc Furnace Operation]”, in press, Industrial and Engineering Chemistry Research (2018)
 - *S. Shyamal* and C. L. E. Swartz, “[https://doi.org/10.1016/j.ifacol.2017.08.2338 Optimization-based Online Decision Support Tool for Electric Arc Furnace
 Operation]”, 20th IFAC World Congress, Toulouse, France, IFAC-PapersOnLine, 50(1), 10784-10789 (2017)
 - C. L. E. Swartz and *S. Shyamal*, “[https://github.com/smritishyamal/Papers_and_presentations/blob/master/Swartz_Shyamal_ISIJ_2017.pdf Dynamic Optimization, Estimation and Control of Electric Arc Furnace
@@ -48,6 +49,14 @@ Operation]”, 11th DYCOPS-CAB, Trondheim, Norway, IFAC-PapersOnLine, 49(7), 117
 
 ~~~
 == News
+- *June 4, 2018*: Joining [https://1qbit.com 1QB Information Technologies] as Machine Learning Scientist.
+
+- *May 31, 2018*: Presented talk in [http://syscon.mcmaster.ca/?page_id=350 2018 Stats and control meeting], Hamilton, Ontario.\n
++Title+: Optimization-based Real-time Operating
+Paradigms for Electric Arc Steelmaking. [https://github.com/smritishyamal/Papers_and_presentations/blob/master/Shyamal_Stats_n_Control_2018.pdf Presentation slides]\n 
+
+- *May 17, 2018*: Awarded 1st prize in 2018 [http://macc.mcmaster.ca McMaster Advanced Control Consortium] Annual Meeting research poster competition.      
+
 - *March 9, 2018*: [https://gs.mcmaster.ca/skills-opportunities/three-minute-thesis 2018 McMaster Three Minute Thesis (3MT) competition]: My presentation is on 14th March (Wednesday) 9:00 am (EST). Extremely excited to share my research work with a broader audience. Title: [https://gs.mcmaster.ca/competition-schedule Real-time Energy Management].
 
 - *March 6, 2018*: [https://github.com/iml-wg/HEP-ML-Resources Resources] to know more on Machine Learning application to High Energy Physics (HEP). Courtesy: [http://theoryandpractice.org Dr. Kyle Cranmer], Associate Professor Of Physics, NYU, New York. 

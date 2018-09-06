@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{deep_learning.html}, 
 #showsource
-= Smriti Shyamal - Deep Learning
-[https://mcmaster.ca McMaster University], Canada
+= Smriti Shyamal, Ph.D. - Deep Learning
 
 == Books
 - Goodfellow, Ian, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. [http://www.deeplearningbook.org Deep learning]. Vol. 1. Cambridge: MIT press, 2016.\n
@@ -27,4 +26,5 @@ Silver, David, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja Hua
 - [https://deepmind.com DeepMind], UK
 - [https://mila.quebec/en/ MILA], Qubec, Canada
 - [http://vectorinstitute.ai Vector Institute], Toronto, Canada
+- [https://openai.com OpenAI]
 

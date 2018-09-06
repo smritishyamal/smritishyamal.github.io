@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{state_estimation.html}, 
 #showsource
-= Smriti Shyamal - State Estimation Resources
-[https://mcmaster.ca McMaster University], Canada
+= Smriti Shyamal, Ph.D. - State Estimation Resources
 
 == Kalman Filters (KF)
 - Extended KF

@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{bio.html}, 
 #showsource
-= Smriti Shyamal
-[https://mcmaster.ca McMaster University], Canada
+= Smriti Shyamal, Ph.D.
+#[https://mcmaster.ca McMaster University], Canada
 
 == Education
-- Ph.D., [https://mcmaster.ca McMaster University], Canada (GPA 11.75/12), Sep'13-Apr'18\n
+- Ph.D., [https://mcmaster.ca McMaster University], Canada (GPA 11.75/12), Sep'13-Jun'18\n
 Advisor: [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. Swartz]
 
 - B.Tech, [http://www.iitb.ac.in Indian Institute of Technology (IIT-B), Bombay], India, Jul'09-Jun'13
@@ -14,6 +14,7 @@ Advisor: [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. S
 /1 international student scholarship for the entire faculty of Engineering in [https://mcmaster.ca McMaster University]/
 - *International Excellence Award*, [https://mcmaster.ca McMaster University] (\$5000) 2017-18 \n
 /Awarded to international students for high standard of scholarly achievement and significant contributions as an international student at McMaster University/
+- - *Research Poster Award*, 30th [http://macc.mcmaster.ca McMaster Advanced Control Consortium] Annual Meeting, 2018
 - *Research Poster Award*, 29th [http://macc.mcmaster.ca McMaster Advanced Control Consortium] Annual Meeting, 2017
 - *International Excellence Award*, [https://mcmaster.ca McMaster University] (\$5000), 2016-17
 - *International Excellence Award*, [https://mcmaster.ca McMaster University] (\$5000), 2015-16
@@ -21,6 +22,11 @@ Advisor: [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. S
 - *Department Organizational Color*, [http://www.iitb.ac.in IIT Bombay], 2013
 
 == Appointments
+*Machine Learning Scientist, [https://1qbit.com 1QB Information Technologies], Vancouver, Canada*, Jun’18-Present
+- Developed a deep learning neural network model in Python using TensorFlow for feature extraction
+- Spearheaded development and deployment of actor-critic reinforcement learning algorithms in Python
+- Programmed 2 reinforcement learning (machine learning) based models suitable for robot training  
+
 *Algorithm Design Research Assistant, [https://mcmaster.ca McMaster University], Canada*, Sep'13-Apr'18
 - Developed machine learning and optimization-based online decision support tool in Python and C\+\+
 - Introduced 3 advanced optimization algorithms for solving complex learning problems
@@ -73,13 +79,13 @@ Advisor: [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. S
 to make a total of over 200 donations during [http://www.iitb.ac.in IIT-B] cultural festival
 
 == Professional Development
-- Assistance to [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Chris Swartz] in supervising 1 Masters Student (Daniela Dering), 2018
+- Assistance to [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Chris Swartz] in supervising 1 Masters Student (Daniela Dering) and 1 Undergraduate Student (Mia Huang), 2018
 - Grant writing assistance (Advisor: [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christopher L.E. Swartz], [https://mcmaster.ca McMaster University]): [https://www.ontario.ca/page/ontario-research-fund-research-excellence Ontario Research Fund – Research Excellence (ORF-RE)], Funding amount: $1-4 million, 2017
 - [https://www.sharcnet.ca/events/ss2014/?page=prog_scinet&site=central Ontario Summer School on High Performance Computing], Toronto, Canada. Offered by SciNet
  (Canada’s largest supercomputer center), Jun'14
-- [http://syscon.mcmaster.ca/?page_id=350 Stats and Control Meeting] (4 participations: Waterloo, Toronto, Montreal, Québec City), 2014-17
-- [http://macc.mcmaster.ca McMaster Advanced Control Consortium (MACC)] Annual Meetings, Hamilton, Canada (4), 2014-17
-- [https://www.eng.mcmaster.ca/mcmaster-steel-research-centre McMaster Steel Research Centre (SRC)] Bi-Annual Meetings, Hamilton, Canada (6), 2013-2017
+- [http://syscon.mcmaster.ca/?page_id=350 Stats and Control Meeting] (5 participations: Waterloo, Toronto, Montreal, Québec City), 2014-18
+- [http://macc.mcmaster.ca McMaster Advanced Control Consortium (MACC)] Annual Meetings, Hamilton, Canada (5), 2014-18
+- [https://www.eng.mcmaster.ca/mcmaster-steel-research-centre McMaster Steel Research Centre (SRC)] Bi-Annual Meetings, Hamilton, Canada (7), 2013-2018
 - Centre for Technology Alternatives for Rural Areas (CTARA), [http://www.iitb.ac.in IIT Bombay], India, Jan’12-Apr’12
 
 == Professional Affiliations

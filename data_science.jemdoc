@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{data_science.html}, 
 #showsource
-= Smriti Shyamal - Data Science Resources
-[https://mcmaster.ca McMaster University], Canada
+= Smriti Shyamal, Ph.D. - Data Science Resources
 
 == Tools
 - [https://pandas.pydata.org Pandas]: Data structure and data analysis tool for [https://www.python.org Python]

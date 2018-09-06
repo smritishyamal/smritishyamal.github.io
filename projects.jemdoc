@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{projects.html}, 
 #showsource
-= Smriti Shyamal - Projects
-[https://mcmaster.ca McMaster University], Canada
+= Smriti Shyamal, Ph.D. - Projects
 
 == Deep Learning & SVM for Image Reconstruction, [https://mcmaster.ca McMaster University], Canada,   Sep’17-Jan’18
 - Developed DeepNet/SVM in Python (TensorFlow with CUDA, Scikit Learn) for image reconstruction
