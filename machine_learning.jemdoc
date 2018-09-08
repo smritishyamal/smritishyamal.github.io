@@ -6,6 +6,8 @@
 - Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. [http://www.springer.com/gp/book/9780387848570 The elements of statistical learning]. Vol. 1. New York: Springer series in statistics, 2001.\n
 *A little `math heavy' but provides a sound background for each of the machine learning techniques.*
 
+== Machine learning of The Edge
+- An introductory blog, nice read: [https://towardsdatascience.com/why-machine-learning-on-the-edge-92fac32105e6 Why Machine Learning on The Edge]
 == Tools
 - [http://scikit-learn.org/stable/ Scikit-learn]: Tools for data mining, data analysis and machine learning
 - [http://xgboost.readthedocs.io/en/latest/ XGBoost]: Gradient boosting library

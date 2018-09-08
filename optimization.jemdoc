@@ -10,18 +10,19 @@
 -- BFGS
 -- Limited BFGS (L-BFGS)
 
+== Constrained Optimization Solvers
+- [http://web.stanford.edu/~boyd/admm.html ADMM]: [https://www.youtube.com/watch?v=Xg0ozgCXXB8 Video lecture by Prof. Byod] 
+- [https://projects.coin-or.org/Ipopt IPOPT]
+- [http://www.conopt.com CONOPT]
+- [https://www.artelys.com/en/optimization-tools/knitro KNITRO]
+- [https://en.wikipedia.org/wiki/SNOPT SNOPT]
+
 == Optimization using High-level languages
 - [https://www.python.org Python]
 - [https://ampl.com AMPL]
 - [https://www.gams.com GAMS]
 - [http://www.fico.com/en/products/fico-xpress-optimization Xpress]
 - gPROMS
-
-== Constrained Optimization Solvers 
-- [https://projects.coin-or.org/Ipopt IPOPT]
-- [http://www.conopt.com CONOPT]
-- [https://www.artelys.com/en/optimization-tools/knitro KNITRO]
-- [https://en.wikipedia.org/wiki/SNOPT SNOPT]
 
 == Mixed-integer Solvers
 - [https://projects.coin-or.org/Bonmin BONMIN]
