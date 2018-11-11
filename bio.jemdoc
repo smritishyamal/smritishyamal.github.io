@@ -22,7 +22,10 @@ Advisor: [http://macc.mcmaster.ca/profile.php?personid=120 Dr. Christoper L.E. S
 - *Department Organizational Color*, [http://www.iitb.ac.in IIT Bombay], 2013
 
 == Appointments
-*Machine Learning Scientist, [https://1qbit.com 1QB Information Technologies], Vancouver, Canada*, Jun’18-Present
+*Machine Learning Specialist, [https://www.xanadu.ai Xanadu], Toronto, Canada*, Nov’18-Present
+- Designing, building, training, and deploying commercial machine learning models within the company and in cooperation with industrial partners 
+
+*Machine Learning Scientist, [https://1qbit.com 1QB Information Technologies], Vancouver, Canada*, Jun’18-Sep'18
 - Developed a deep learning neural network model in Python using TensorFlow for feature extraction
 - Spearheaded development and deployment of actor-critic reinforcement learning algorithms in Python
 - Programmed 2 reinforcement learning (machine learning) based models suitable for robot training  
