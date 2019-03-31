@@ -2,6 +2,10 @@
 #showsource
 = Smriti Shyamal, Ph.D. - Projects
 
+== LSTM for Electricity Price Bidding, [https://cwpenergy.com CWP Energy], Montreal, Canada, Sep’18
+- Implemented Robust PCA algorithm for separating price that deviate substantially from normal behaviour
+- Developed LSTM model for bidding strategy optimization using real market data 
+
 == Deep Learning & SVM for Image Reconstruction, [https://mcmaster.ca McMaster University], Canada,   Sep’17-Jan’18
 - Developed DeepNet/SVM in Python (TensorFlow with CUDA, Scikit Learn) for image reconstruction
 - Conceptualized the learning problem and generated input & output data from original RGB image
